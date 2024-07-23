@@ -20,7 +20,7 @@ Before you run the bot, ensure you have the following:
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/yourusername/your-repository.git
+    git clone https://github.com/BISHESH-T/Bishesh.git
     cd your-repository
     ```
 2. **Install Required Libraries**:
