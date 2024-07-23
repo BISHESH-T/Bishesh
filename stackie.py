@@ -522,7 +522,7 @@ async def help(ctx):
     embed.add_field(name=":smirk_cat: Check out the Quests within the Campaigns", value ="``quest``",inline=False)
     embed.add_field(name=":sunglasses: Get Quest Help from AI", value = "``ask <query>``",inline=False)
     embed.add_field(name=":heart_eyes:More About Stackie", value="``info``",inline=False)
-    embed.add_field(name=":heart_eyes:More features of Stackie", value="Stackie has the feature of notifying the stackies with the new campaigns and quests on quest days Automatically. Make sure to set up a notification channel by using the command ``a!add_channel <channel_id>``.",inline=False)
+    embed.add_field(name=":smile:More features of Stackie", value="Stackie has the feature of notifying the stackies with the new campaigns and quests on quest days Automatically. Make sure to set up a notification channel by using the command ``a!add_channel <channel_id>``.",inline=False)
     
     
     await ctx.send(embed=embed)
