@@ -5,3 +5,5 @@ difflib
 lxml
 aiohttp
 watchdog
+discord.py
+python-dotenv
