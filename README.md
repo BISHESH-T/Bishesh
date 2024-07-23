@@ -63,4 +63,7 @@ The bot will automatically:
 
    NOTE: Make sure to run the command 'a!add_channel <channel_id>' to specify the notification channel in order to access the   
    notification features.
+
+   link to add the bot to your server:
+   https://discord.com/oauth2/authorize?client_id=982330325910814720&permissions=8&integration_type=0&scope=bot
    
