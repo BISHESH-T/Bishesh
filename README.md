@@ -18,10 +18,10 @@ Before you run the bot, ensure you have the following:
 ## Setup
 
 1. **Clone the Repository**:
-
+    Open and new file and clone the repo using the following code:
     ```bash
     git clone https://github.com/BISHESH-T/Bishesh.git
-    cd your-repository
+    cd Bishesh
     ```
 2. **Install Required Libraries**:
 
