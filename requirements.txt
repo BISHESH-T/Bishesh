@@ -1,0 +1,7 @@
+BeautifulSoup
+Requests
+json
+difflib
+lxml
+aiohttp
+watchdog

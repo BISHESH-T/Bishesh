@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question": "hello",
+      "answer": "Hey!"
+    },
+    {
+      "question": "What is your Name ?",
+      "answer": "I am Stackie"
+    },
+    {
+      "question": "How old are you?",
+      "answer": "As a chatbot, I do not have an age. But, i was created on 2024-07-19"
+    },
+    {
+      "question": "what is the solution to the error in step of quest 1 ?",
+      "answer": "the solution is to install the modules properly"
+    },
+    {
+      "question": "what is the solution to the error in the quest 2 of the second campaign ?",
+      "answer": "The solution is to use a cloud environment as the quest doesnt support windows or any other os"
+    }
+  ]
+}
